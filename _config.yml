@@ -1,6 +1,6 @@
 # Site settings
-title: Development Blog
-description: 'A blog to keep track of my development projects.'
+title: Dev Blog
+description: 'Keeping track of past and future projects'
 url: 'https://areeb-m.github.io/dev-blog/'
 baseurl: '/dev-blog'
 # google_analytics: 'UA-XXXXXX-X'
