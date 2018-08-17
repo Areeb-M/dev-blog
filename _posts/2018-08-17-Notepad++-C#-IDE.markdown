@@ -1,5 +1,5 @@
 ---
-title: "Notepad++ C# IDE"
+title: "Using Notepad++ as a C# IDE"
 date: 2018-08-17 15:04:23
 catgeories: tutorial
 tags: tutorial
