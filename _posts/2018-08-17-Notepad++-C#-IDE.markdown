@@ -1,4 +1,3 @@
-
 ---
 title: "Notepad++ C# IDE"
 date: 2018-08-17 15:04:23
